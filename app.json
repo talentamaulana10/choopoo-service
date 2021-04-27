@@ -1,8 +1,8 @@
 {
-  "name" : "choopoo-service",
-  "bildpacks" : [
+  "name" : "choopo",
+  "buildpacks": [
     {
-      "url" : "heroku/gradle"
+      "url": "heroku/gradle"
     }
   ]
 }
