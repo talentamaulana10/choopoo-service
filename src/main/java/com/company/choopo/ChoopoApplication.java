@@ -1,4 +1,4 @@
-package com.company.choopo;
+package main.java.com.company.choopo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
