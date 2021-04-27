@@ -16,6 +16,11 @@ public class Kontrol {
         return "Hellow " + name;
     }
 
+    @GetMapping
+    public ResponseEntity<?> kata() {
+        return ResponseEntity.ok("Hello World");
+    }
+
     @GetMapping("/customHeader")
     ResponseEntity<String> customHeader() {
         return ResponseEntity.ok()
