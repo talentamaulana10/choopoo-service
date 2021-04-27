@@ -1,4 +1,4 @@
-package com.company.choopo;
+package main.java.com.company.choopo.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
